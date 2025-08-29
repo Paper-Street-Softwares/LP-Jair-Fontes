@@ -18,12 +18,12 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADO EM ILHÉUS E SALVADOR",
+    "title": "Seus direitos esperando você  <span class=\"text-primary font-bold\">agir</span>",
+    "subtitle": "Cada caso pode mudar sua vida. Por que deixar para depois?",
+    "ctaButtonText": "Veja como",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Nosso escritório atende clientes em Ilhéus e Salvador. Online para todo Brasil."
     }
   },
   "features": {
