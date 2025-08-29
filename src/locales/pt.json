@@ -27,48 +27,76 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ÁREAS DE ATUAÇÃO",
+    "title": "Nossas especialidades jurídicas",
+    "subtitle": "Soluções práticas e humanas para cada área do direito.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Civil",
+      "subtitle": "Resolva conflitos e proteja seus direitos.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Empresarial",
+      "subtitle": "Apoio legal para seu negócio crescer seguro.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito do Consumidor",
+      "subtitle": "Garantimos seus direitos em compras e serviços.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito de Família e Sucessões",
+      "subtitle": "Cuidados com família, heranças e união familiar.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
       "servicesButton": "A_Definir"
     },
     "card5": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Criminal",
+      "subtitle": "Defesa especializada quando você mais precisa.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card6": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Médico",
+      "subtitle": "Proteção legal para médicos e pacientes.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card7": {
+      "title": "Direito Tributário",
+      "subtitle": "Simplificamos impostos e questões fiscais.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card8": {
+      "title": "Direito Ambiental",
+      "subtitle": "Protegendo o meio ambiente com segurança.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card9": {
+      "title": "Direito Trabalhista",
+      "subtitle": "Seus direitos no trabalho, garantidos sempre.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card10": {
+      "title": "Direito Previdenciário",
+      "subtitle": "Benefícios e aposentadoria sem complicações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"

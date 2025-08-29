@@ -39,12 +39,12 @@ export default function FeaturesParagraphs({ modal, colorMode }) {
       <SectionWrapper>
         <div className="flex flex-col items-center w-full justify-evenly tablet1:flex-row">
           <div className="flex flex-wrap items-start justify-center w-full gap-[40px]">
-            {[1, 2, 3, 4].map((num) => {
+            {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((num) => {
               const card = content.texts.features[`card${num}`]; // Mantém ícones e imagens do content
               return (
                 <MotionDivDownToUp
                   key={num}
-                  className="flex flex-col items-center justify-center border-[2px] border-solid px-[10px] py-[20px] rounded-md bg-bgSectionLight tablet1:w-[46.5%] desktop1:w-[28%] desktop2:w-[25%]"
+                  className="flex flex-col items-center justify-center border-[2px] border-solid px-[10px] py-[20px] rounded-md bg-bgSectionLight max-w-[350px] tablet1:w-[300px] desktop1:w-[200px] desktop2:w-[17%]"
                 >
                   <IconButtonFeatureCard
                     icon={card.icon} // ícone do content
@@ -53,7 +53,7 @@ export default function FeaturesParagraphs({ modal, colorMode }) {
                     className="tablet1:mb-[12px] desktop1:mb-0 desktop2:mb-[18px]"
                     colorMode={colorMode}
                   />
-                  <Button
+                  {/* <Button
                     size="small"
                     className="bg-darker"
                     labelColor="text-white"
@@ -76,7 +76,7 @@ export default function FeaturesParagraphs({ modal, colorMode }) {
                         <path d="M4 4v7a4 4 0 0 0 4 4h12" />
                       </svg>
                     }
-                  />
+                  /> */}
                 </MotionDivDownToUp>
               );
             })}
