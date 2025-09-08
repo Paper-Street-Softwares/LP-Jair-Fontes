@@ -17,18 +17,18 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "ADVOGADO EM ILHÉUS E SALVADOR",
-    "title": "Seus direitos esperando você  <span class=\"text-primary font-bold\">agir</span>",
-    "subtitle": "Cada caso pode mudar sua vida. Por que deixar para depois?",
-    "ctaButtonText": "Veja como",
+    "miniTag": "ATENDIMENTO ONLINE E PRESENCIAL",
+    "title": "Seus direitos pedem sua <span class=\"text-primary font-bold\">ação</span>",
+    "subtitle": "Cada caso pode transformar sua vida. Não deixe para amanhã o que pode resolver hoje.",
+    "ctaButtonText": "Entre em contato",
     "obsHero": {
-      "text": "Nosso escritório atende clientes em Ilhéus e Salvador. Online para todo Brasil."
+      "text": "Nosso escritório atende clientes em Ilhéus e Salvador e online para todo Brasil."
     }
   },
   "features": {
     "miniTag": "ÁREAS DE ATUAÇÃO",
-    "title": "Nossas especialidades jurídicas",
-    "subtitle": "Soluções práticas e humanas para cada área do direito.",
+    "title": "Especialidades jurídicas",
+    "subtitle": "Soluções práticas para cada área.",
     "card1": {
       "title": "Direito Civil",
       "subtitle": "Resolva conflitos e proteja seus direitos.",
@@ -137,7 +137,7 @@
   },
   "steps": {
     "miniTag": "PASSO A PASSO",
-    "title": "Como funciona nosso atendimento?",
+    "title": "Como funciona?",
     "subtitle": "",
     "cards": {
       "card1": {
