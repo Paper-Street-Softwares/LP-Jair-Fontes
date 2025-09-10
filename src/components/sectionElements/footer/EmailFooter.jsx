@@ -15,7 +15,7 @@ function EmailFooter({
         <div className="flex full gap-x-[12px] items-center opacity-90">
           <Mail />
 
-          <p className="text-paragraph2">{content.texts.infos.email}</p>
+          <p className="text-paragraph2">jairfontes.adv@hotmail.com</p>
         </div>
       </MotionDivDownToUp>
 
@@ -24,7 +24,9 @@ function EmailFooter({
           <div className="flex full gap-x-[12px] items-center opacity-90">
             <Mail />
 
-            <p className="text-paragraph2">{content.texts.infos.emailSecundario} </p>
+            <p className="text-paragraph2">
+              {content.texts.infos.emailSecundario}{" "}
+            </p>
           </div>
         </MotionDivDownToUp>
       )}
