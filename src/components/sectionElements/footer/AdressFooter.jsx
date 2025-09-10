@@ -10,7 +10,7 @@ function AdressFooter({ showSecond = true }) {
     <>
       {/* Endereço principal */}
       <MotionDivDownToUp>
-        <div className="flex full gap-x-[12px] items-center opacity-90">
+        <div className="flex full gap-x-[12px] items-center opacity-90 text-paragraph2">
           <div>
             <MapPin />
           </div>
