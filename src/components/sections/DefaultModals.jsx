@@ -44,13 +44,13 @@ export default function FeaturesParagraphs({ modal, colorMode }) {
               return (
                 <MotionDivDownToUp
                   key={num}
-                  className="flex flex-col items-center justify-center border-[2px] border-solid px-[10px] py-[20px] rounded-md bg-bgSectionLight max-w-[350px] tablet1:w-[300px] desktop1:w-[200px] desktop2:w-[17%]"
+                  className="flex flex-col items-center justify-center border-[2px] border-solid p-[10px] rounded-md bg-bgSectionLight max-w-[350px] tablet1:w-[300px] desktop1:w-[200px] desktop2:w-[17%]"
                 >
                   <IconButtonFeatureCard
                     icon={card.icon} // ícone do content
                     title={t(`features.card${num}.title`)}
                     paragraph={t(`features.card${num}.subtitle`)}
-                    className="tablet1:mb-[12px] desktop1:mb-0 desktop2:mb-[18px]"
+                    className=""
                     colorMode={colorMode}
                   />
                   {/* <Button
